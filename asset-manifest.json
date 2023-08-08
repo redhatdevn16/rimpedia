@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rimpedia/static/css/main.8834a248.css",
+    "main.js": "/rimpedia/static/js/main.dc99b6db.js",
+    "static/js/787.e0af3575.chunk.js": "/rimpedia/static/js/787.e0af3575.chunk.js",
+    "index.html": "/rimpedia/index.html",
+    "main.8834a248.css.map": "/rimpedia/static/css/main.8834a248.css.map",
+    "main.dc99b6db.js.map": "/rimpedia/static/js/main.dc99b6db.js.map",
+    "787.e0af3575.chunk.js.map": "/rimpedia/static/js/787.e0af3575.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8834a248.css",
+    "static/js/main.dc99b6db.js"
+  ]
+}
